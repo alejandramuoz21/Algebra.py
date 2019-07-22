@@ -1,0 +1,4 @@
+def biseccion ():
+
+
+def NewtonReportes():
